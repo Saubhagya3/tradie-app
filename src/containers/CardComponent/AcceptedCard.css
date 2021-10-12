@@ -1,0 +1,56 @@
+.accepted-card-container {
+    color: grey;
+    background: white;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+}
+
+hr {
+    margin-top: 8px;
+    width: inherit;
+    margin-bottom: 8px;
+    background-color: rgb(212, 212, 212);
+    border: 0 none;
+    color: #eee;
+    height: 1px;
+}
+
+h4 {
+    color: black;
+}
+
+.small-text {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.contact {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #ff8e38;
+    font-weight: bold;
+}
+
+.undo-button {
+    margin-top: 5px;
+    background: #ff7b12;
+    margin-right: 15px;
+    border-bottom: solid #cc6210;
+    color: #fffbf8;
+    font-weight: bold;
+}
+
+.undo-button:active {
+    background-color: #cc6210;
+}
+
+.second-row {
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}

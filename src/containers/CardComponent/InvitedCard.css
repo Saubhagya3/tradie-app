@@ -1,0 +1,67 @@
+.invited-card-container {
+    color: grey;
+    background: white;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+}
+hr {
+    margin-top: 8px;
+    width: inherit;
+    margin-bottom: 8px;
+    background-color: rgb(212, 212, 212);
+    border: 0 none;
+    color: #eee;
+    height: 1px;
+}
+
+h4 {
+    color: black;
+}
+
+.small-text {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+button {
+    width: 110px;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+}
+
+.second-row {
+    justify-content: center;
+}
+
+.accept-button {
+    background: #ff7b12;
+    margin-right: 15px;
+    border-bottom: solid #cc6210;
+    color: #fffbf8;
+    font-weight: bold;
+}
+
+.accept-button:active {
+    background-color: #cc6210;
+}
+
+.decline-button {
+    background: #eeeeee;
+    color: #595959;
+    border-bottom: solid #d2d2d2;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+.decline-button:active {
+    background-color: #d2d2d2;
+}
+
+.card-bottom-row {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+
