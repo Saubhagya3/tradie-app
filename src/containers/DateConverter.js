@@ -15,11 +15,11 @@ const FormattedDate = (date) => {
         day = '0' + day
     }
 
-    if (hour.length < 10) {
+    if (hour.length < 2) {
         hour = '0' + hour
     }
 
-    if (minute.length < 10) {
+    if (minute.length < 2) {
         minute = '0' + minute
     }
 
