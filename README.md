@@ -20,8 +20,8 @@
 
 ### Server Side Configuration
 
-To view the source code for server, please use git command: 'git clone https://git.heroku.com/test-fullstack-project.git'.
-To run the server locally, please change the following in the 'index.js' file:
+- To view the source code for server, please use git command: 'git clone https://git.heroku.com/test-fullstack-project.git'.
+- To run the server locally, please change the following in the 'index.js' file:
   ({
       host: "localhost",
       user: "root",
@@ -29,9 +29,9 @@ To run the server locally, please change the following in the 'index.js' file:
       database: "*YOUR DATABASE NAME*",
   });
 
-To run the server at PORT:3000, use terminal command: 'npm run devStart'.
+- To run the server at PORT:3000, use terminal command: 'npm run devStart'.
 
-The server was built using node js and express with added dependencies: body-parser, cors, mysql2 and nodemon.
+- The server was built using node js and express with added dependencies: body-parser, cors, mysql2 and nodemon.
 
 ## Solution for the front-end
 
