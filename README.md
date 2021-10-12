@@ -1,6 +1,6 @@
 # SOLUTION
 
-This is description of the solution and the tools used and decisions made for the project. Please note that since Docker can't run in my system because I have older version of Windows 10, I used the query from the given repository (init.sql file) to create new database schema. 
+This is description of the solution and the tools used and decisions made for the project. Please note that since Docker can't run in my system because I have older version of Windows 10, I used the query from the repository you've provided (https://github.com/hipages/tech-test-full-stack-engineer/blob/master/docker/mysql/init.sql) to create new database tables in my schema. 
 
 ## Tools Used
 
@@ -9,18 +9,20 @@ Node JS
 MySQL
 Express
 Axios
+GitHub
 Heroku
 Netlify
 
 ### View Application
 
-To view the deployed application please go to: 
-The server side of the application is located at:
+To view the deployed application please go to: 'https://quirky-khorana-20aebe.netlify.app/'
 
 ### Server Side
 
+To view the source code for server, please use git command: 'git clone https://git.heroku.com/test-fullstack-project.git'
+
 The server was built using node js and express with added dependencies: body-parser, cors, mysql2 and nodemon.
-To run the server locally, please run the command: npm run devStart
+To run the server locally, please run the command: 'npm run devStart'
 
 ### Solution for the Front end
 
@@ -52,4 +54,5 @@ Used the following endpoints:
 
 ### Repository and deployment
 
-Used github for frontend and heroku for the backend. Used netlify to deploy the application.
+Used github for frontend and heroku for the backend. 
+Used netlify to deploy the application.
