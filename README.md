@@ -29,7 +29,7 @@
       database: "*YOUR DATABASE NAME*",
   });
 
-- To run the server at PORT:3000, use terminal command: 'npm run devStart'.
+- To run the server at PORT:3001, use terminal command: 'npm run devStart'.
 
 - The server was built using node js and express with added dependencies: body-parser, cors, mysql2 and nodemon.
 
