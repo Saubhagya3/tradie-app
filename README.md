@@ -33,7 +33,7 @@
 
 - The server was built using node js and express with added dependencies: body-parser, cors, mysql2 and nodemon.
 
-## Solution for the front-end
+### Solution for the front-end
 
 - First, React app was created using 'create-react-app'.
 - Then, components were created for handling the tab and handling the cards respectively. 
