@@ -1,6 +1,6 @@
-# SOLUTION
+# Fullstack Application
 
-- This is the description of the solution, the tools used and decisions made for the project. Please note that since Docker can't run in my system because I have older version of Windows 10, I used the query from the repository you've provided (https://github.com/hipages/tech-test-full-stack-engineer/blob/master/docker/mysql/init.sql) to create new database tables in my schema. 
+- This is a simple fullstack application that connects to a database to display data and perform CRUD (specifically create and update) operations. This is the description of the solution, the tools used and decisions made for the project. 
 
 ## View Application
 
